@@ -39,8 +39,8 @@ To run test:
 grunt test
 ```
 
-### Push requests
-All push requests must run this command with no error or warning.
+### Pull requests
+All pull requests must run this command with no error or warning.
 ```shell
 grunt
 ```
