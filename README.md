@@ -8,7 +8,7 @@ Download the file [string.min.js](js/string.min.js) and include it into your web
 
 ### Node.js
 ```shell
-npm install git+https://github.com/jsdoc3/jsdoc.git
+npm install git+https://github.com/romainfrancez/string.git
 ```
 
 ### Documentation
