@@ -1,0 +1,29 @@
+{
+  "name": "string",
+  "description": "A set of functions to extend the capabilities of String.",
+  "author": "Romain Francez <me@romainf.fr>",
+  "version": "0.1.0",
+  "license": "GPLv3",
+  "main": "./lib",
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-contrib-jshint": "~0.7.1",
+    "grunt-contrib-uglify": "~0.2.5",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-nodeunit": "~0.2.2",
+    "grunt-jsdoc": "~0.4.1",
+    "grunt-contrib-clean": "~0.5.0"
+  },
+  "engines": {
+    "node": "0.x",
+    "npm": "1.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/romainfrancez/string.git"
+  },
+  "bugs": {
+    "url": "https://github.com/romainfrancez/string/issues"
+  }
+}
