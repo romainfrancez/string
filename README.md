@@ -1,4 +1,4 @@
-# string
+# string [![Code Climate](https://codeclimate.com/repos/52ffabe1e30ba068ee0083eb/badges/dae2abb2143107890d13/gpa.png)](https://codeclimate.com/repos/52ffabe1e30ba068ee0083eb/feed)
 
 A set of functions to extend the capabilities of String.
 
